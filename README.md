@@ -19,7 +19,7 @@ A simple text field specifically for collecting the last four numbers of an Amer
 
 On the form, the field will display as: XXX-XX-[input]
 
-* Important: This data is not encrypted in any way. So handle with care. *
+**Important: This data is not encrypted in any way. So handle with care.**
 
 ## Screenshots ##
 
