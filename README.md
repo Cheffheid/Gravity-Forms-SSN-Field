@@ -18,6 +18,7 @@ On the form, the field will display as: XXX-XX-[input]
 ## Screenshots ##
 
 1. How the field is displayed on the front-end
+
 ![How the field is displayed on the front-end](/assets/screenshot-1.png)
 
 ## Installation ##
