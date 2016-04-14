@@ -1,4 +1,4 @@
-=== Gravity Forms SSN Field ===
+# Gravity Forms SSN Field #
 Contributors: cheffheid
 Tags: forms
 Requires at least: 3.8
@@ -9,23 +9,24 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin will help you manage and display post series more easily. You'll be able to create/assign series assign posts to it.
 
-== Description ==
+## Description ##
 
 A simple text field specifically for collecting the last four numbers of an American social security number with Gravity Forms. The text field includes HTML5 pattern attribute and basic validation to ensure 4 numbers are entered.
 
 On the form, the field will display as: XXX-XX-[input]
 
-== Screenshots ==
+## Screenshots ##
 
 1. How the field is displayed on the front-end
+![How the field is displayed on the front-end](/assets/screenshot-1.png)
 
-== Installation ==
+## Installation ##
 
 1. Upload the `gf-field-ssn` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add the field to a Gravity Forms form!
 
-== Changelog ==
+## Changelog ##
 
-= 1.0 =
+### 1.0 ###
 * First release.
