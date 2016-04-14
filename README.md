@@ -1,13 +1,17 @@
 # Gravity Forms SSN Field #
 Contributors: cheffheid
-Tags: forms
-Requires at least: 3.8
-Tested up to: 4.5
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will help you manage and display post series more easily. You'll be able to create/assign series assign posts to it.
+Tags: forms
+
+Requires at least: 3.8
+
+Tested up to: 4.5
+
+Stable tag: 1.0.0
+
+License: GPLv2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description ##
 

@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will help you manage and display post series more easily. You'll be able to create/assign series assign posts to it.
+A simple text field specifically for collecting the last four numbers of an American social security number with Gravity Forms.
 
 == Description ==
 
